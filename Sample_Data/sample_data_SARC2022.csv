@@ -1,0 +1,65 @@
+Sample,plot,Block,Year,site,row,split,treatment,unique,Seeding_Rate,Nitrogen,Weeds,Fungicide,nitrate,phosphorus,potassium,OM,Fusarium,Fus_cat,FusariumPresence,Cochliob,CochliobPresence,VisualRating,Percent_Damage
+barcode01,P101,R1,2022,Huntley,10,lSnF,hShNnBnF,2,Low,Low,Brome,No Fungicide,12,7,296,2.2,2,Low,Fusarium,0,No Cochliob,2,50
+barcode02,P102,R1,2022,Huntley,10,lSF,hShNBnF,4,Low,Low,Brome,Fungicide,9,5,261,2.5,4,High,Fusarium,1,Cochliob,1.5,37.5
+barcode03,P103,R1,2022,Huntley,10,hSnF,hSlNBnF,8,High,High,No Brome,No Fungicide,9,7,288,2.2,0,None,No Fusarium,0,No Cochliob,1.5,37.5
+barcode04,P104,R1,2022,Huntley,10,hSF,hSlNnBnF,6,High,High,No Brome,Fungicide,18,10,302,2,2,Low,Fusarium,0,No Cochliob,2.5,62.5
+barcode05,P105,R1,2022,Huntley,10,lSnF,hShNBnF,4,Low,High,No Brome,No Fungicide,12,4,226,2.1,4,High,Fusarium,0,No Cochliob,2.5,62.5
+barcode06,P106,R1,2022,Huntley,10,lSF,lSlNnBnF,14,Low,High,No Brome,Fungicide,9,5,233,2.2,1,Low,Fusarium,1,Cochliob,1,25
+barcode07,P107,R1,2022,Huntley,10,hSnF,lShNnBnF,10,High,Low,Brome,No Fungicide,9,6,245,1.9,5,High,Fusarium,0,No Cochliob,1.5,37.5
+barcode08,P108,R1,2022,Huntley,10,hSF,lSlNBnF,16,High,Low,Brome,Fungicide,12,10,299,2.3,3,Low,Fusarium,0,No Cochliob,1.5,37.5
+barcode09,P109,R1,2022,Huntley,10,lSnF,hSlNBF,7,Low,Low,No Brome,No Fungicide,9,3,213,2.1,1,Low,Fusarium,0,No Cochliob,1.5,37.5
+barcode10,P110,R1,2022,Huntley,10,lSF,hSlNnBF,5,Low,Low,No Brome,Fungicide,6,3,162,1.9,1,Low,Fusarium,2,Cochliob,1,25
+barcode11,P111,R1,2022,Huntley,10,hSnF,hShNnBF,1,High,High,Brome,No Fungicide,15,6,232,1.9,5,High,Fusarium,0,No Cochliob,1.5,37.5
+barcode12,P112,R1,2022,Huntley,10,hSF,hShNBF,3,High,High,Brome,Fungicide,12,9,286,2.3,4,High,Fusarium,0,No Cochliob,2,50
+barcode13,P113,R1,2022,Huntley,10,lSnF,lSlNBF,15,Low,High,Brome,No Fungicide,15,3,221,1.9,3,Low,Fusarium,0,No Cochliob,2.5,62.5
+barcode14,P114,R1,2022,Huntley,10,lSF,lShNBF,11,Low,High,Brome,Fungicide,6,5,239,2.1,3,Low,Fusarium,0,No Cochliob,3,75
+barcode15,P115,R1,2022,Huntley,10,hSnF,lShNnBF,9,High,Low,No Brome,No Fungicide,6,5,184,1.6,2,Low,Fusarium,0,No Cochliob,1.5,37.5
+barcode16,P116,R1,2022,Huntley,10,hSF,lSlNnBF,13,High,Low,No Brome,Fungicide,15,15,336,2.5,2,Low,Fusarium,0,No Cochliob,2,225
+barcode17,P201,R2,2022,Huntley,11,lSnF,lShNBF,11,Low,High,No Brome,No Fungicide,9,6,245,2,0,None,No Fusarium,0,No Cochliob,2.5,62.5
+barcode18,P202,R2,2022,Huntley,11,lSF,lShNnBF,9,Low,High,No Brome,Fungicide,9,5,194,2.2,1,Low,Fusarium,0,No Cochliob,2.5,62.5
+barcode19,P203,R2,2022,Huntley,11,hSnF,lSlNnBF,13,High,Low,Brome,No Fungicide,12,7,274,2.2,1,Low,Fusarium,0,No Cochliob,1.5,37.5
+barcode20,P204,R2,2022,Huntley,11,hSF,lSlNBF,15,High,Low,Brome,Fungicide,9,8,301,2.2,0,None,No Fusarium,0,No Cochliob,2.5,62.5
+barcode21,P205,R2,2022,Huntley,11,lSnF,hShNBF,3,Low,Low,Brome,No Fungicide,21,9,253,2.3,1,Low,Fusarium,0,No Cochliob,3,75
+barcode22,P206,R2,2022,Huntley,11,lSF,hSlNnBF,5,Low,Low,Brome,Fungicide,9,5,218,2,0,None,No Fusarium,0,No Cochliob,2,50
+barcode23,P207,R2,2022,Huntley,11,hSnF,hShNnBF,1,High,High,No Brome,No Fungicide,12,5,242,2,0,None,No Fusarium,0,No Cochliob,1,25
+barcode24,P208,R2,2022,Huntley,11,hSF,hSlNBF,7,High,High,No Brome,Fungicide,48,12,248,2.1,2,Low,Fusarium,0,No Cochliob,3,75
+barcode25,P209,R2,2022,Huntley,11,lSnF,lShNnBnF,10,Low,High,Brome,No Fungicide,36,7,209,1.9,0,None,No Fusarium,0,No Cochliob,2,50
+barcode26,P210,R2,2022,Huntley,11,lSF,lSlNBnF,16,Low,High,Brome,Fungicide,12,6,236,2.1,0,None,No Fusarium,0,No Cochliob,2.5,62.5
+barcode27,P211,R2,2022,Huntley,11,hSnF,lShNBnF,12,High,Low,No Brome,No Fungicide,9,8,282,2.3,1,Low,Fusarium,0,No Cochliob,2,50
+barcode28,P212,R2,2022,Huntley,11,hSF,lSlNnBnF,14,High,Low,No Brome,Fungicide,9,7,209,2.2,2,Low,Fusarium,1,Cochliob,1,25
+barcode29,P213,R2,2022,Huntley,11,lSnF,hShNnBnF,2,Low,Low,No Brome,No Fungicide,12,7,189,1.8,1,Low,Fusarium,0,No Cochliob,1.5,37.5
+barcode30,P214,R2,2022,Huntley,11,lSF,hSlNBnF,8,Low,Low,No Brome,Fungicide,12,5,162,2.1,4,High,Fusarium,0,No Cochliob,1,25
+barcode31,P215,R2,2022,Huntley,11,hSnF,hShNBnF,4,High,High,Brome,No Fungicide,30,6,200,2.2,3,Low,Fusarium,1,Cochliob,3.5,87.5
+barcode32,P216,R2,2022,Huntley,11,hSF,hSlNnBnF,6,High,High,Brome,Fungicide,6,6,203,1.7,3,Low,Fusarium,0,No Cochliob,2.5,62.5
+barcode33,P301,R3,2022,Huntley,12,hSF,hShNBF,3,High,Low,No Brome,Fungicide,9,5,233,2.2,2,Low,Fusarium,0,No Cochliob,1.5,37.5
+barcode34,P302,R3,2022,Huntley,12,hSnF,hSlNBF,7,High,Low,No Brome,No Fungicide,15,4,196,2,0,None,No Fusarium,0,No Cochliob,2,50
+barcode35,P303,R3,2022,Huntley,12,lSF,hSlNnBF,5,Low,High,Brome,Fungicide,15,6,162,2.1,3,Low,Fusarium,0,No Cochliob,3.5,87.5
+barcode36,P304,R3,2022,Huntley,12,lSnF,hShNnBF,1,Low,High,Brome,No Fungicide,12,5,173,1.7,2,Low,Fusarium,0,No Cochliob,2.5,62.5
+barcode37,P305,R3,2022,Huntley,12,hSF,hShNnBnF,2,High,High,Brome,Fungicide,18,5,215,2.1,0,None,No Fusarium,0,No Cochliob,3.5,87.5
+barcode38,P306,R3,2022,Huntley,12,hSnF,hSlNBnF,8,High,High,Brome,No Fungicide,15,4,198,1.9,1,Low,Fusarium,0,No Cochliob,2,50
+barcode39,P307,R3,2022,Huntley,12,lSF,hShNBnF,4,Low,Low,No Brome,Fungicide,6,8,245,2.1,0,None,No Fusarium,1,Cochliob,2,50
+barcode40,P308,R3,2022,Huntley,12,lSnF,hSlNnBnF,6,Low,Low,No Brome,No Fungicide,15,7,242,2,0,None,No Fusarium,1,Cochliob,1.5,37.5
+barcode41,P309,R3,2022,Huntley,12,hSF,lSlNnBF,13,High,Low,Brome,Fungicide,15,6,245,2.6,3,Low,Fusarium,1,Cochliob,2.5,62.5
+barcode42,P310,R3,2022,Huntley,12,hSnF,lShNBF,11,High,Low,Brome,No Fungicide,9,5,180,2,1,Low,Fusarium,0,No Cochliob,2.5,62.5
+barcode43,P311,R3,2022,Huntley,12,lSF,lShNnBF,9,Low,High,No Brome,Fungicide,12,5,199,1.8,1,Low,Fusarium,0,No Cochliob,3,75
+barcode44,P312,R3,2022,Huntley,12,lSnF,lSlNBF,15,Low,High,No Brome,No Fungicide,21,7,241,2,0,None,No Fusarium,1,Cochliob,3.5,87.5
+barcode45,P313,R3,2022,Huntley,12,hSF,lShNnBnF,10,High,High,No Brome,Fungicide,42,5,209,2.1,0,None,No Fusarium,2,Cochliob,3,75
+barcode46,P314,R3,2022,Huntley,12,hSnF,lShNBnF,12,High,High,No Brome,No Fungicide,12,5,178,1.9,2,Low,Fusarium,0,No Cochliob,2.5,62.5
+barcode47,P315,R3,2022,Huntley,12,lSF,lSlNnBnF,14,Low,Low,Brome,Fungicide,9,7,242,2,1,Low,Fusarium,0,No Cochliob,1.5,37.5
+barcode48,P316,R3,2022,Huntley,12,lSnF,lSlNBnF,16,Low,Low,Brome,No Fungicide,18,8,221,1.9,4,High,Fusarium,0,No Cochliob,2,50
+barcode49,P401,R4,2022,Huntley,13,hSF,lShNnBF,9,High,High,Brome,Fungicide,54,3,348,2.6,2,Low,Fusarium,0,No Cochliob,1.5,37.5
+barcode50,P402,R4,2022,Huntley,13,hSnF,lShNBF,11,High,High,Brome,No Fungicide,18,4,240,2.3,2,Low,Fusarium,0,No Cochliob,3.5,87.5
+barcode51,P403,R4,2022,Huntley,13,lSF,lSlNnBF,13,Low,Low,No Brome,Fungicide,9,9,208,2.1,1,Low,Fusarium,0,No Cochliob,2.5,62.5
+barcode52,P404,R4,2022,Huntley,13,lSnF,lSlNBF,15,Low,Low,No Brome,No Fungicide,12,6,209,2.2,1,Low,Fusarium,2,Cochliob,1.5,37.5
+barcode53,P405,R4,2022,Huntley,13,hSF,hSlNnBF,5,High,Low,No Brome,Fungicide,12,4,195,2.2,0,None,No Fusarium,0,No Cochliob,2,50
+barcode54,P406,R4,2022,Huntley,13,hSnF,hShNBF,3,High,Low,No Brome,No Fungicide,9,7,255,2.5,0,None,No Fusarium,0,No Cochliob,2,50
+barcode55,P407,R4,2022,Huntley,13,lSF,hSlNBF,7,Low,High,Brome,Fungicide,24,4,233,2.2,1,Low,Fusarium,0,No Cochliob,3,75
+barcode56,P408,R4,2022,Huntley,13,lSnF,hShNnBF,1,Low,High,Brome,No Fungicide,15,5,225,1.9,3,Low,Fusarium,0,No Cochliob,1,25
+barcode57,P409,R4,2022,Huntley,13,hSF,hShNnBnF,2,High,High,No Brome,Fungicide,30,3,229,2.2,1,Low,Fusarium,0,No Cochliob,1.5,37.5
+barcode58,P410,R4,2022,Huntley,13,hSnF,hSlNnBnF,6,High,High,No Brome,No Fungicide,18,3,244,1.9,0,None,No Fusarium,0,No Cochliob,2,50
+barcode59,P411,R4,2022,Huntley,13,lSF,hSlNBnF,8,Low,Low,Brome,Fungicide,9,5,264,2.5,0,None,No Fusarium,1,Cochliob,2.5,62.5
+barcode60,P412,R4,2022,Huntley,13,lSnF,hShNBnF,4,Low,Low,Brome,No Fungicide,9,6,243,2.2,0,None,No Fusarium,0,No Cochliob,1.5,37.5
+barcode61,P413,R4,2022,Huntley,13,hSF,lSlNBnF,16,High,Low,Brome,Fungicide,18,6,249,2.3,0,None,No Fusarium,1,Cochliob,2.5,62.5
+barcode62,P414,R4,2022,Huntley,13,hSnF,lSlNnBnF,14,High,Low,Brome,No Fungicide,9,3,198,2,2,Low,Fusarium,2,Cochliob,1,25
+barcode63,P415,R4,2022,Huntley,13,lSF,lShNBnF,12,Low,High,No Brome,Fungicide,36,6,206,2.2,0,None,No Fusarium,1,Cochliob,3.5,87.5
+barcode64,P416,R4,2022,Huntley,13,lSnF,lShNnBnF,10,Low,High,No Brome,No Fungicide,39,5,171,1.8,2,Low,Fusarium,0,No Cochliob,3,75
