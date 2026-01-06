@@ -1,5 +1,6 @@
 setwd("Your Directory")
 
+# Adapted from https://github.com/jkzorz/SituSeq
 #load packages (in this order to avoid masking issues)
 library(ShortRead)
 library(dada2)
