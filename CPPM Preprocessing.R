@@ -10,6 +10,7 @@ library(tidyverse)
 
 
 # Nanopore generates multiple fastq files for each barcode which need to be merged
+# Run the following workflow prior to running Emu (https://github.com/treangenlab/emu)
 
 # ---------------------------------
 # Merge fastq.gz files per barcode 
